@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data Science Projects/recommendation_engine/groceries/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
